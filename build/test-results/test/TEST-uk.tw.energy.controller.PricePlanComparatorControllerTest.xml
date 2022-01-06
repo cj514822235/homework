@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.tw.energy.controller.PricePlanComparatorControllerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-01-06T03:23:13" hostname="jianches-MacBook-Pro.local" time="0.124">
+  <properties/>
+  <testcase name="shouldReturnRightPriceWhenCalculateCostForMeterReadingsForWeek()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.095"/>
+  <testcase name="shouldReturnRightRankWhenGetCostForDayOfWeekRank()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.006"/>
+  <testcase name="shouldRecommendLimitedCheapestPricePlansForMeterUsage()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.005"/>
+  <testcase name="shouldRecommendCheapestPricePlansMoreThanLimitAvailableForMeterUsage()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.001"/>
+  <testcase name="givenNoMatchingMeterIdShouldReturnNotFound()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.001"/>
+  <testcase name="shouldCalculateCostForMeterReadingsForEveryPricePlan()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.001"/>
+  <testcase name="shouldReturnRightCostWhenGetDayElectricityUsage()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.002"/>
+  <testcase name="shouldReturnRightPricePlaneRankWhenGetPricePlanRank()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.005"/>
+  <testcase name="shouldRecommendCheapestPricePlansNoLimitForMeterUsage()" classname="uk.tw.energy.controller.PricePlanComparatorControllerTest" time="0.001"/>
+  <system-out><![CDATA[<200 OK OK,{2021-12-27=15, 2022-01-03=25, smart-meter-id=9600.0000},[]>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

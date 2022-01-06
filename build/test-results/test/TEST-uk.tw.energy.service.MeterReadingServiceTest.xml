@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.tw.energy.service.MeterReadingServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-06T03:23:13" hostname="jianches-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="givenMeterIdThatDoesNotExistShouldReturnNull()" classname="uk.tw.energy.service.MeterReadingServiceTest" time="0.006"/>
+  <testcase name="test()" classname="uk.tw.energy.service.MeterReadingServiceTest" time="0.003"/>
+  <testcase name="givenMeterReadingThatExistsShouldReturnMeterReadings()" classname="uk.tw.energy.service.MeterReadingServiceTest" time="0.002"/>
+  <system-out><![CDATA[2022-01-06T03:23:13.242596Z
+THURSDAY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

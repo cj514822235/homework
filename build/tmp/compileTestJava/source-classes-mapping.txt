@@ -1,0 +1,12 @@
+uk/tw/energy/domain/PricePlanTest.java
+ uk.tw.energy.domain.PricePlanTest
+uk/tw/energy/service/AccountServiceTest.java
+ uk.tw.energy.service.AccountServiceTest
+uk/tw/energy/builders/MeterReadingsBuilder.java
+ uk.tw.energy.builders.MeterReadingsBuilder
+uk/tw/energy/controller/MeterReadingControllerTest.java
+ uk.tw.energy.controller.MeterReadingControllerTest
+uk/tw/energy/service/MeterReadingServiceTest.java
+ uk.tw.energy.service.MeterReadingServiceTest
+uk/tw/energy/controller/PricePlanComparatorControllerTest.java
+ uk.tw.energy.controller.PricePlanComparatorControllerTest
